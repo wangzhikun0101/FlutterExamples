@@ -1,0 +1,1 @@
+通过在MaterialAPP中初始化默认路由
